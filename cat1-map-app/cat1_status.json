@@ -1,0 +1,533 @@
+[
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1235H",
+    "end_time": "1500H",
+    "message_id": 8736
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "18E"
+    ],
+    "start_time": "1220H",
+    "end_time": "1300H",
+    "message_id": 8735
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1200H",
+    "end_time": "1500H",
+    "message_id": 8734
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1145H",
+    "end_time": "1500H",
+    "message_id": 8733
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0900H",
+    "end_time": "1200H",
+    "message_id": 8732
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0516H",
+    "end_time": "0900H",
+    "message_id": 8731
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0516H",
+    "end_time": "0900H",
+    "message_id": 8730
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0040H",
+    "end_time": "0600H",
+    "message_id": 8729
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2331H",
+    "end_time": "0600H",
+    "message_id": 8728
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2157H",
+    "end_time": "2400H",
+    "message_id": 8727
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2147H",
+    "end_time": "2400H",
+    "message_id": 8726
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2100H",
+    "end_time": "2400H",
+    "message_id": 8725
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "L4",
+      "04",
+      "06",
+      "10N",
+      "10S"
+    ],
+    "start_time": "2045H",
+    "end_time": "2130H",
+    "message_id": 8724
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "L4",
+      "04",
+      "06",
+      "10N",
+      "10S"
+    ],
+    "start_time": "2030H",
+    "end_time": "2130H",
+    "message_id": 8723
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "11W",
+      "11E",
+      "13N"
+    ],
+    "start_time": "2035H",
+    "end_time": "2130H",
+    "message_id": 8723
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "17"
+    ],
+    "start_time": "1945H",
+    "end_time": "2030H",
+    "message_id": 8722
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "17"
+    ],
+    "start_time": "1915H",
+    "end_time": "2015H",
+    "message_id": 8721
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "19N",
+      "19S"
+    ],
+    "start_time": "1900H",
+    "end_time": "2000H",
+    "message_id": 8721
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "19N",
+      "19S"
+    ],
+    "start_time": "1840H",
+    "end_time": "1940H",
+    "message_id": 8720
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1815H",
+    "end_time": "2100H",
+    "message_id": 8719
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1730H",
+    "end_time": "2100H",
+    "message_id": 8718
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1554H",
+    "end_time": "1800H",
+    "message_id": 8717
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1535H",
+    "end_time": "1800H",
+    "message_id": 8716
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1451H",
+    "end_time": "1800H",
+    "message_id": 8715
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1400H",
+    "end_time": "1800H",
+    "message_id": 8714
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1351H",
+    "end_time": "1800H",
+    "message_id": 8713
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1252H",
+    "end_time": "1500H",
+    "message_id": 8712
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "12",
+      "15",
+      "16N",
+      "16S"
+    ],
+    "start_time": "1235H",
+    "end_time": "1330H",
+    "message_id": 8711
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "17",
+      "18W",
+      "18E",
+      "19N",
+      "19S"
+    ],
+    "start_time": "1220H",
+    "end_time": "1330H",
+    "message_id": 8711
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "12",
+      "15",
+      "16N",
+      "16S"
+    ],
+    "start_time": "1235H",
+    "end_time": "1330H",
+    "message_id": 8710
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "17",
+      "18W",
+      "18E",
+      "19N",
+      "19S"
+    ],
+    "start_time": "1210H",
+    "end_time": "1300H",
+    "message_id": 8710
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "17",
+      "18W",
+      "18E",
+      "19N",
+      "19S"
+    ],
+    "start_time": "1210H",
+    "end_time": "1300H",
+    "message_id": 8709
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0855H",
+    "end_time": "1200H",
+    "message_id": 8708
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0747H",
+    "end_time": "0900H",
+    "message_id": 8707
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0747H",
+    "end_time": "0900H",
+    "message_id": 8706
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "0433H",
+    "end_time": "0900H",
+    "message_id": 8705
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2219H",
+    "end_time": "0600H",
+    "message_id": 8704
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2158H",
+    "end_time": "2400H",
+    "message_id": 8703
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2141H",
+    "end_time": "2400H",
+    "message_id": 8702
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2113H",
+    "end_time": "2400H",
+    "message_id": 8701
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "L4",
+      "3N",
+      "04",
+      "06"
+    ],
+    "start_time": "2105H",
+    "end_time": "2215H",
+    "message_id": 8700
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2047H",
+    "end_time": "2400H",
+    "message_id": 8699
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2042H",
+    "end_time": "2400H",
+    "message_id": 8698
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "2018H",
+    "end_time": "2400H",
+    "message_id": 8697
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1925H",
+    "end_time": "2100H",
+    "message_id": 8696
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "17"
+    ],
+    "start_time": "1905H",
+    "end_time": "2015H",
+    "message_id": 8695
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "18E",
+      "19S"
+    ],
+    "start_time": "1800H",
+    "end_time": "1900H",
+    "message_id": 8694
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "15",
+      "18E"
+    ],
+    "start_time": "1730H",
+    "end_time": "1830H",
+    "message_id": 8693
+  },
+  {
+    "status": "active",
+    "sectors": [
+      "18W",
+      "19S"
+    ],
+    "start_time": "1740H",
+    "end_time": "1840H",
+    "message_id": 8693
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1701H",
+    "end_time": "1800H",
+    "message_id": 8692
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1645H",
+    "end_time": "1800H",
+    "message_id": 8691
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1627H",
+    "end_time": "1800H",
+    "message_id": 8690
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1535H",
+    "end_time": "1800H",
+    "message_id": 8689
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1423H",
+    "end_time": "1800H",
+    "message_id": 8688
+  },
+  {
+    "status": "inactive",
+    "sectors": [
+      "all"
+    ],
+    "start_time": "1355H",
+    "end_time": "1500H",
+    "message_id": 8687
+  }
+]
