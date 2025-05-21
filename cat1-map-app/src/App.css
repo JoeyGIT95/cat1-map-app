@@ -1,0 +1,46 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f0f0f0;
+}
+
+.map-container {
+  margin: 20px auto;
+  border: 1px solid #ccc;
+  background: white;
+  position: relative;
+  user-select: none;
+  overflow: hidden;
+  width: 1200px;
+  height: 800px;
+}
+
+.zone {
+  max-width: 150px;
+  max-height: 150px;
+}
+
+const infoBoxStyle = {
+  position: "absolute",
+  left: clampedLeft,
+  top: clampedTop,
+  maxWidth: 140,
+  maxHeight: 80,
+  padding: "4px 8px",
+  background: "rgba(0, 0, 0, 0.3)",
+  color: "white",
+  borderRadius: 6,
+  fontSize: 12,
+  fontWeight: "500",
+  pointerEvents: "none",
+  userSelect: "none",
+  zIndex: 1000,
+  backdropFilter: "blur(4px)",
+  boxShadow: "0 0 6px rgba(0,0,0,0.2)",
+  lineHeight: "1.2",
+  whiteSpace: "normal",  // Allow wrapping
+  overflow: "hidden",    // Hide overflow if any
+};
+
+}
+
