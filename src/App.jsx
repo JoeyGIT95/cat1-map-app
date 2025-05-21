@@ -103,7 +103,7 @@ export default function App() {
 
 
   useEffect(() => {
-  fetch("http://34.133.154.63:8000/cat1_status.json")
+  fetch('/api/proxy')
     .then((res) => res.json())
     .then((data) => {
       setCat1Data(data);
