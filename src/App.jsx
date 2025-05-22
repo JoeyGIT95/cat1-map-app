@@ -103,22 +103,31 @@ export default function App() {
 
 
   useEffect(() => {
-  fetch('/api/proxy')
-    .then((res) => res.json())
+  fetch("/api/proxy")
+    .then((res) => {
+      if (!res.ok) throw new Error("Failed to fetch proxy");
+      return res.json();
+    })
     .then((data) => {
+      console.log("✅ Received data from proxy:", data);
       setCat1Data(data);
+
       if (data.length > 0) {
         const latest = getActiveCat1Message(data);
         if (latest) {
-  			setLatestMessageId(latest.message_id);
-			  // Prefix "Sector " to each sector name to match `sectorsData` keys
-			  console.log("Active sectors:", (latest.sectors || []).map((s) => `Sector ${s}`));
-			  setActiveSectors((latest.sectors || []).map((s) => `Sector ${s}`));
-			}
+          setLatestMessageId(latest.message_id);
+          const sectors = (latest.sectors || []).map((s) => `Sector ${s}`);
+          console.log("🔥 Active sectors:", sectors);
+          setActiveSectors(sectors);
+        }
       }
     })
-    .catch((err) => console.error("Failed to load cat1_status.json", err));
+    .catch((err) => {
+      console.error("❌ Failed to load cat1_status.json", err);
+    });
 }, []);
+
+
 
 
 
